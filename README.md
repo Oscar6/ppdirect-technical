@@ -60,7 +60,7 @@ type VerifyHeaders = Parameters<GenClass['request']>[3];
 ## 2. Write a typed function
 Write a TypeScript function that formats a User object for display. Define the User interface and a function that will take a User object and an optional formatting parameter. The function should return a printable string that has at least 1 alternate format using the format parameter. You may type the User attributes and function parameters as you wish.
 
-// Response:
+## Response:
 
 ```
 interface User {
